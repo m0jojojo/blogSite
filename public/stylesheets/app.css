@@ -1,0 +1,16 @@
+i.icon{
+	font-size: 2em;
+}
+
+.container.main{
+	margin-top: 7.0em;
+}
+
+#delete{
+	display: inline;
+}
+
+body{
+	background: url(https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-0.3.5&s=a8ce5bf203fdaf826d2db0b2d8d51544&auto=format&fit=crop&w=1950&q=80);
+}
+
